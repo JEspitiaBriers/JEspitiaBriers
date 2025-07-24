@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 💼 ***Current Jobs***
-- 💻 **Software Engineer**: Braintu developer, an AI command center for businesses.
+- 💻 **Software Engineer**: Developer at Braintu, an AI command center for businesses.
 - 📚 **Teaching & Tutoring**: I teach academic subjects in English to bilingual children and create engaging learning activities.
 
 🌇 ***Background***:

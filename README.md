@@ -1,9 +1,10 @@
 # Hi there! 👋
 
 ## 🚀 About Me
-💼 ***Current Jobs***
-- 💻 **Software Engineer**: Developer at Braintu, an AI command center for businesses.
-- 📚 **Teaching & Tutoring**: I teach academic subjects in English to bilingual children and create engaging learning activities.
+💼 ***Professional Roles***
+- 📊 **Data Analytics**: Currently seeking role change into data analytics.
+- 💻 **Software Engineer**: Previously a aeveloper at Braintu, an AI command center for businesses.
+- 📚 **Teaching & Tutoring**: I have taught academic subjects in English to bilingual children and create engaging learning activities.
 
 🌇 ***Background***:
 - 🎓 **Education**: Post-Graduate Certificate in Education (PGCE) w/ QTS - Computer Science Teacher.\
